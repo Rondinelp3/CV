@@ -1,0 +1,51 @@
+ 
+*{
+    box-sizing:border-box;
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}  
+
+
+
+.sobremi{
+background: rgba(248,80,50,1);
+background: -moz-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(248,80,50,1)), color-stop(58%, rgba(248,80,50,1)), color-stop(89%, rgba(231,56,39,1)), color-stop(100%, rgba(231,56,39,1)));
+background: -webkit-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
+background: -o-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
+background: -ms-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
+background: linear-gradient(to right, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827', GradientType=1 );
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.imgcara{
+    position: relative;
+    width: 500px;
+    height: 70%;
+    padding: 20px;
+    border-radius: 50px;
+
+
+}
+ .sobremi_contenedor{
+     position: relative;
+     width: 900px;
+     margin: 20px;
+     background: white;
+     display: block;
+     height: 570px;
+}
+.nombre{
+    position: relative;
+    top: 30px
+}
+ 
+.cont_about{
+    position: relative;
+    top: 120px
+}
