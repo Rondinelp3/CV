@@ -4,6 +4,7 @@
     margin: 0;
     list-style: none;
     padding: 0;
+    
 }  
 
 
@@ -39,6 +40,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', end
      background: white;
      display: block;
      height: 570px;
+     border-radius: 30px
 }
 .nombre{
     position: relative;
@@ -48,4 +50,70 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', end
 .cont_about{
     position: relative;
     top: 120px
+}
+
+/*Main*/
+
+.contenedor_Prin{
+   background: blue;
+    height: 100vh;
+    flex-wrap: wrap;
+  
+}
+.txt{
+    text-align: center;
+    position: relative;
+}
+.forma_acade_prin{
+    position: relative;
+    top: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.ul1{
+    position: relative;
+    background: red;
+    margin: 20px; 
+    max-width: 500px;
+    height: 150px;
+    border-radius: 5px;
+    padding: 10px
+}
+
+.ul2{
+    position: relative;
+    background: red;
+    margin: 20px; 
+    max-width: 500px;
+    height: 250px;
+    border-radius: 5px;
+     padding: 10px
+}
+/*formacion academica*/
+.otros_estu{
+  position: relative;
+   
+    
+}
+
+/*habilidades y certificados*/
+
+
+
+.habi,.certi{
+     position: relative;
+    top: 100px;
+    height: 300px
+}
+
+
+
+
+.ContenedorSecu{
+    background: green;
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: center
 }
