@@ -1,7 +1,7 @@
- 
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 *{
     box-sizing:border-box;
-    
+    font-family: 'Roboto Mono', monospace;
     list-style: none;
     padding: 0;
     
@@ -27,7 +27,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 22%, rgba(
 .sobre_mi,.sobre_mi2{
     background: white;
     border-radius: 10px;
-   
+    
     box-shadow: 2px 2px 10px #666;
   
 }
