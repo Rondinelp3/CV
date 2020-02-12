@@ -6,10 +6,16 @@
     padding: 0;
     
 }  
+html{
+    scroll-behavior: smooth;
+}
 .nav-item{
    list-style: none
 }
-
+#cuak{
+   position: fixed;
+    width: 100%
+}
 
 .banner_2{
 
@@ -42,7 +48,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 22%, rgba(
     border: 1px solid;
     border-radius: 10px
 }
-
+/*
 li{
       list-style: disc
 }
