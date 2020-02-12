@@ -9,7 +9,7 @@
 
 
 
-.body{
+.datos_pers{
 background: rgba(248,80,50,1);
 background: -moz-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(248,80,50,1)), color-stop(58%, rgba(248,80,50,1)), color-stop(89%, rgba(231,56,39,1)), color-stop(100%, rgba(231,56,39,1)));
@@ -18,7 +18,7 @@ background: -o-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%
 background: -ms-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
 background: linear-gradient(to right, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827', GradientType=1 );
-
+ height: 100vh
     
 }
 .contenido{
@@ -27,10 +27,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', end
 .sobre_mi{
     background: white;
     border-radius: 30px;
-     height: 570px;
+    height: 530px;
+    margin: 10px     
 }
- 
- 
+.imgcara{
+    border-radius: 30px;
+       
+}
+
+
+
+
+
+
+
+
 
 /*Main
 
