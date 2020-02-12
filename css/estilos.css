@@ -23,9 +23,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', end
 }
 .contenido{
   
-   
+  
 }
-.sobre_mi{
+.sobre_mi,.sobre_mi2{
     background: white;
     border-radius: 10px;
   
