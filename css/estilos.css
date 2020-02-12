@@ -1,7 +1,7 @@
  
 *{
     box-sizing:border-box;
-    margin: 0;
+    
     list-style: none;
     padding: 0;
     
@@ -22,16 +22,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', end
     
 }
 .contenido{
-    padding: 20px;  
   
    
 }
 .sobre_mi{
     background: white;
-    border-radius: 30px;
-    max-height:  530px;
-    margin: 10px;
-       
+    border-radius: 10px;
+  
 }
 .imgcara{
     border-radius: 30px;
@@ -39,25 +36,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', end
 }
 
 /*Main*/
-.contenido2{
-   
-}
-.txt{
-    text-align: center;
-    position: relative;
-}
+
+
 .main{
     background: yellow;
  
     
 }
-.formacion_academica{
-    
-  
-}
-.otros_estudios{
-     
-}
+
 /*
 .contenedor_Prin{
    background: blue;
