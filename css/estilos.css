@@ -18,29 +18,48 @@ background: -o-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%
 background: -ms-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
 background: linear-gradient(to right, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 58%, rgba(231,56,39,1) 89%, rgba(231,56,39,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827', GradientType=1 );
- height: 100vh
+
     
 }
 .contenido{
-    padding: 20px
+    padding: 20px;  
+  
+   
 }
 .sobre_mi{
     background: white;
     border-radius: 30px;
-    height: 530px;
-    margin: 10px     
+    max-height:  530px;
+    margin: 10px;
+       
 }
 .imgcara{
     border-radius: 30px;
        
 }
 
+/*Main*/
+.contenido2{
+    margin: 0;
+}
+.txt{
+    text-align: center;
+    position: relative;
+}
+.main{
+    background: yellow;
+  
+    
+}
+.formacion_academica{
+     max-width: 500px;
+  
+}
+.otros_estudios{
+     max-width: 500px;
 
-             
-
-
-/*Main
-
+}
+/*
 .contenedor_Prin{
    background: blue;
     height: 100vh;
